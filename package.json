@@ -1,0 +1,11 @@
+{
+  "name": "oneplus-project",
+  "version": "0.0.0",
+  "main": "index.js",
+  "engines": {
+    "node" : "6.9.0"
+  },
+  "dependencies": {
+    "ejs" : "2.4.1"
+  }
+}
