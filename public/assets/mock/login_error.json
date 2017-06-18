@@ -1,7 +1,0 @@
-{
-  "status": "FORBIDDEN",
-  "code": "ERR_ACCESS_DENIED",
-  "errors": [
-    "Access denied"
-  ]
-}
